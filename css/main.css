@@ -2596,3 +2596,7 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+#contact > div > div > p> a:hover{
+	color: #37AD92 !important;
+}
